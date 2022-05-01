@@ -1,3 +1,3 @@
-Hello, this is Simple Java Games, I make simple java game for fun. Feel Free to use any of them.
+Hello, this is Simple Games, I make simple games for fun. Feel Free to use any of them.
 
 Many thanks. :)
